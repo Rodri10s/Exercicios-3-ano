@@ -1,0 +1,6 @@
+INDEX VERSION 1.132+C:\Users\EVEREX\Desktop\Ramon\Projetos\.metadata\.plugins\org.eclipse.jdt.core
+1132441971.index
+3784271860.index
+992168429.index
+1865797976.index
+3530776156.index
